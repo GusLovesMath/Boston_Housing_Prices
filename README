@@ -4,3 +4,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 In the project I do some fun visualization using the data set and
 then form two types of regression models and test them on the test
 set of data. Then I finalize my model.
+
+The data information in the Jupyter Notebook is from
+from sklearn.datasets import load_boston
+load_boston().DESCR()
